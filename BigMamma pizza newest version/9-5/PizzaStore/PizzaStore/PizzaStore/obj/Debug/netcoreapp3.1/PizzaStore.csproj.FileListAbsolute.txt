@@ -1,0 +1,70 @@
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.exe
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.deps.json
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.json
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.dev.json
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfo.cs
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.genruntimeconfig.cache
+C:\Users\AMejd\Desktop\BigMamma Pizza\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.exe
+C:\Users\AMejd\Desktop\BigMamma Pizza\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.deps.json
+C:\Users\AMejd\Desktop\BigMamma Pizza\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.json
+C:\Users\AMejd\Desktop\BigMamma Pizza\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.dev.json
+C:\Users\AMejd\Desktop\BigMamma Pizza\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\AMejd\Desktop\BigMamma Pizza\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\AMejd\Desktop\BigMamma Pizza\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\AMejd\Desktop\BigMamma Pizza\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMejd\Desktop\BigMamma Pizza\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\AMejd\Desktop\BigMamma Pizza\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfo.cs
+C:\Users\AMejd\Desktop\BigMamma Pizza\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\AMejd\Desktop\BigMamma Pizza\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\AMejd\Desktop\BigMamma Pizza\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\AMejd\Desktop\BigMamma Pizza\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.genruntimeconfig.cache
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.exe
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.deps.json
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.json
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.dev.json
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfo.cs
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\Roza\Downloads\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.genruntimeconfig.cache
+C:\Users\AMejd\Desktop\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.exe
+C:\Users\AMejd\Desktop\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.deps.json
+C:\Users\AMejd\Desktop\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.json
+C:\Users\AMejd\Desktop\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.dev.json
+C:\Users\AMejd\Desktop\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\AMejd\Desktop\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\AMejd\Desktop\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\AMejd\Desktop\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMejd\Desktop\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\AMejd\Desktop\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfo.cs
+C:\Users\AMejd\Desktop\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\AMejd\Desktop\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\AMejd\Desktop\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\AMejd\Desktop\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.genruntimeconfig.cache
+C:\Users\AMejd\Desktop\Zealand\Zealand (1ste semester\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.exe
+C:\Users\AMejd\Desktop\Zealand\Zealand (1ste semester\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.deps.json
+C:\Users\AMejd\Desktop\Zealand\Zealand (1ste semester\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.json
+C:\Users\AMejd\Desktop\Zealand\Zealand (1ste semester\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.dev.json
+C:\Users\AMejd\Desktop\Zealand\Zealand (1ste semester\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\AMejd\Desktop\Zealand\Zealand (1ste semester\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\AMejd\Desktop\Zealand\Zealand (1ste semester\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\AMejd\Desktop\Zealand\Zealand (1ste semester\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMejd\Desktop\Zealand\Zealand (1ste semester\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\AMejd\Desktop\Zealand\Zealand (1ste semester\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfo.cs
+C:\Users\AMejd\Desktop\Zealand\Zealand (1ste semester\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\AMejd\Desktop\Zealand\Zealand (1ste semester\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\AMejd\Desktop\Zealand\Zealand (1ste semester\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\AMejd\Desktop\Zealand\Zealand (1ste semester\BigMamma pizza newest version\9-5\PizzaStore\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.genruntimeconfig.cache
